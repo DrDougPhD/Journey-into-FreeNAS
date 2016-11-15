@@ -4,7 +4,7 @@ Notes, scripts, and other things related to my journey into a FreeNAS installati
 ## First Installation
 
 1. Download the current stable release of FreeNAS from [here](http://www.freenas.org/download-freenas-release/).
-2. Write the downloaded FreeNAS-9.10.1-U4.iso file to a 1GB USB flash drive.
+2. Write the downloaded FreeNAS-9.10.1-U4.iso file to a 1GB USB flash drive.  
     $ sudo dd if=FreeNAS-9.10.1-U4.iso of=/dev/sdb bs=4M
 3. Plug said flash drive into system and boot.
 This will likely require frantic smashing of [F12] immediately after powering on.
