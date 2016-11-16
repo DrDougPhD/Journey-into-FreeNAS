@@ -17,4 +17,10 @@ This will likely require frantic smashing of [F12] immediately after powering on
 Let that do its thing.
 2. Once finished, a Console setup prompt will pop up asking for network interface configuration.
 Do that.
-3. 
+3. Now all that's left is to start configuring stuff within the FreeNAS web interface.
+Point your web browser to [http://freenas.local/](http://freenas.local/) to access your system.
+
+## Things I need to do
+* Install ssh
+* View the system log.
+  * Analogous to dmesg in Linux.
